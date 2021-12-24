@@ -37,35 +37,19 @@
 
 <p>
   💻 My Stack<br/><br/>
-  <img src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=orange" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Rust-00599C?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 <hr>
 
-<!--START_SECTION:waka-->
-```text
-Go                         5 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   40.12 % 
-YAML                       4 hrs           ███████▓░░░░░░░░░░░░░░░░░   30.51 % 
-JavaScript                 1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Nginx configuration file   1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Makefile                   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-```
-<!--END_SECTION:waka-->
-
-
-<hr>
-
-- 🔭 I’m currently working on a chat app
+- 🔭 I’m currently working with @mercurieinc
 - 💻 Currently loooking for my next challenge
-- ☀️ Building enterprise applications in java and javascript.
-- 👯 I’m looking to collaborate on anything involving js/typescript, python, golang and java
+- ☀️ Building enterprise applications in Go.
+- 👯 I’m looking to collaborate on anything involving python, golang and javascript
 - 💬 Ask me about anything related to technology and I have something to say or tell you I don't know
-- 📫 Reach me via [Email](mailto:augani7@gmail.com?subject=From%20github)
+- 📫 Reach me via [Email](mailto:kalycodes@gmail.com?subject=From%20github)
 
 
 
