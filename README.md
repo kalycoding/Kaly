@@ -24,7 +24,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=augani&show_icons=true&count_private=true" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kalycoding&show_icons=true&count_private=true" width="350"></a>
 </p>
 
 <hr>
