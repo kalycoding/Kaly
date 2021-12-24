@@ -30,7 +30,7 @@
 <hr>
 <p align='center'>
   
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=augani&layout=compact&count_private=true&hide=css,html,less,scss)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kalycoding&layout=compact&count_private=true&hide=css,html,less,scss)
   
 </p>  
 
