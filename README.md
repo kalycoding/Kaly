@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A backend engineer from Nigeria.
+  A backend engineer from the world.
 </p>
 
 
