@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A backend engineer from the world.
+  A software engineer from the world.
 </p>
 
 
