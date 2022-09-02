@@ -40,7 +40,6 @@
 
 <hr>
 
-- 🔭 I’m currently working with @mercurieinc
 - 💻 Currently loooking for my next challenge
 - ☀️ Building enterprise applications in Go.
 - 👯 I’m looking to collaborate on anything involving python, golang and javascript
